@@ -1,4 +1,4 @@
-# Python Development (Under Development)
+# Python Development (Under Development) :sweat_smile:
 
 Here are some of my Python development. Feel free to check them. I am still learning the language so if you have tips and advices for me,
 send them.
