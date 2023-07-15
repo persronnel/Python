@@ -19,4 +19,6 @@ Play BlackJack using Python. You can use any IDE as you want. Have fun!
       |  \/ K|                            _/ |                
       `------'                           |__/           
 ```
+What is the game about?
+In blackjack, the goal is to have a hand total that is closer to 21 than the dealer's hand, without going over 21. Players are dealt two cards and can choose to "hit" to receive another card or "stand" to keep their current hand. The dealer then reveals their cards and hits until their hand reaches 17 or higher. If a player's hand exceeds 21, they lose, and if their hand is closer to 21 than the dealer's, they win. A hand with an Ace and a 10-value card is called a blackjack and pays out at a higher rate.
 
