@@ -7,7 +7,7 @@ Thank you! :blush:
 
 
 ### BlackJack
-Play BlackJack using Python. You can use any IDE as you want. Have fun!
+> Play BlackJack using Python. You can use any IDE as you want. Have fun!
 
 ```python
 .------.            _     _            _    _            _    
