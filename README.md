@@ -25,8 +25,8 @@ What is the game about?
 
 ### Kaggle Challenge - The Optimized Exhibition Opening 🤖
 > This problem statement describes an art exhibition organization task in which paintings need to be arranged to satisfy robotic attendees. Here's the breakdown of requirements:
-Task:
-•	Arrange paintings in a large corridor where the robots will view them.
+Task:/n
+•	Arrange paintings in a large corridor where the robots will view them./n
 Considerations:
 •	The attendees are robots with specific tastes.
 •	Robots view each painting as a simple list of tags representing elements of the painting.
